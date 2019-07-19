@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c2b85f9-3e65-4268-b19d-b3f6520afb9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Performer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Actor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Musician.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Musician.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abolfazl/human_example/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abolfazl/human_example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abolfazl/human_example/Performer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/Performer.java" afterDir="false" />
-    </list>
+    <list default="true" id="4c2b85f9-3e65-4268-b19d-b3f6520afb9c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="504">
+              <caret line="24" column="70" lean-forward="true" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
               <folding>
                 <element signature="e#614#615#0" expanded="true" />
                 <element signature="e#686#687#0" expanded="true" />
@@ -275,7 +265,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="221" width="1920" height="1052" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26605996" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,7 +276,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33186814" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33186814" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995633" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="504">
+          <caret line="24" column="70" lean-forward="true" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
           <folding>
             <element signature="e#614#615#0" expanded="true" />
             <element signature="e#686#687#0" expanded="true" />
