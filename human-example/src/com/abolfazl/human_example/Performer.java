@@ -3,67 +3,83 @@ package com.abolfazl.human_example;
 import java.util.List;
 
 public class Performer extends Human implements Actor, Musician {
+
+    private String musicSchool;
+    private String genre;
+    private List <String> songs;
+    private String actingSchool;
+    private List <String> films;
+
+
     public Performer(String name, int age, Gender gender, float height) {
         super(name, age, gender, height);
     }
 
     @Override
     public String getActingSchool() {
-        return null;
+        return actingSchool;
     }
 
     @Override
     public void setActingSchool(String actingSchool) {
-
+        this.actingSchool=actingSchool;
     }
 
     @Override
     public List<String> getFilms() {
-        return null;
+        return films;
     }
 
     @Override
     public void setFilms(List<String> films) {
-
+        this.films=films;
     }
 
     @Override
-    public void addFilm(String fileName) {
-
+    public void addFilm(String filmName) {
+        this.films.add(filmName);
     }
 
     @Override
     public int getTimeToLive() {
-        return 0;
+        return (LIFESPAN-getAge())/2;
     }
 
     @Override
     public String getMusicSchool() {
-        return null;
+        return musicSchool;
     }
 
     @Override
     public void setMusicSchool(String musicSchool) {
-
+        this.musicSchool=musicSchool;
     }
 
     @Override
     public List<String> getSongs() {
-        return null;
+        return songs;
     }
 
     @Override
     public void getSongs(List<String> songs) {
+        this.songs=songs;
+    }
 
+    public void setSongs (List<String> songs){
+        this.songs=songs;
+    }
+
+    public void addSong(String song){
+        this.songs.add(song);
     }
 
     @Override
     public String getGener() {
-        return null;
+        return genre;
     }
 
     @Override
     public void setGenere() {
-
+    this.genre=genre;
     }
 }

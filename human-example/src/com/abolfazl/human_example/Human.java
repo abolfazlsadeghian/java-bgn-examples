@@ -17,7 +17,12 @@ public abstract class Human {
 
     }
 
-    public Human(String name, int age,Gender gender ,float height) {
+    public Gender getGender() {
+        return gender;
+
+    }
+
+    public Human(String name, int age, Gender gender , float height) {
         this(name, age,gender);
         this.height = height;
     }

@@ -19,6 +19,9 @@ public class Main{
 //        System.out.println(abolfazl_two.getName());
 //        System.out.println(abolfazl_two.getTimeToLive());
 
+        Performer abolfaz = new Performer("Abolfazl",23,Gender.MALE,1.9f);
+        System.out.println(abolfaz.getName()+" "+ abolfaz.getAge() +" "+ abolfaz.getGender());
+
         System.out.println(Gender.FEMALE.comment());
         System.out.println(Gender.MALE.comment());
         System.out.println(Gender.UNDEFINED.comment());
