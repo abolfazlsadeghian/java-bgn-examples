@@ -2,7 +2,7 @@ package com.abolfazl.human_example;
 
 import java.util.List;
 
-public interface Musician {
+public interface Musician extends Artist {
     String getMusicSchool();
     void setMusicSchool(String musicSchool);
     List<String> getSongs();
