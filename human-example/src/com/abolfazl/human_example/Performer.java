@@ -2,7 +2,7 @@ package com.abolfazl.human_example;
 
 import java.util.List;
 
-public class Performer extends Human implements Actor, Musician {
+public class Performer extends Human implements Actor, Musician, Artist {
 
     private String musicSchool;
     private String genre;
@@ -10,6 +10,15 @@ public class Performer extends Human implements Actor, Musician {
     private String actingSchool;
     private List <String> films;
 
+    @Override
+    public String getSchool() {
+        return musicSchool;
+    }
+
+    @Override
+    public void setSchool(String school) {
+        this.musicSchool=school;
+    }
 
     public Performer(String name, int age, Gender gender, float height) {
         super(name, age, gender, height);
@@ -74,7 +83,7 @@ public class Performer extends Human implements Actor, Musician {
     }
 
     @Override
-    public String getGener() {
+    public String getGenre() {
         return genre;
     }
 

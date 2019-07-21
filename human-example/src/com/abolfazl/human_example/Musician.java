@@ -7,10 +7,13 @@ public interface Musician extends Artist {
     void setMusicSchool(String musicSchool);
     List<String> getSongs();
     void getSongs(List<String> songs);
-    String getGener();
+    String getGenre();
     void setGenere();
 
-//This is for when you are a class
+
+
+
+    //This is for when you are a class
 //    private String name;
 //    private int age;
 //    private float height;
