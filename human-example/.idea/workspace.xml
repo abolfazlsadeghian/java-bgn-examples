@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2b85f9-3e65-4268-b19d-b3f6520afb9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/GenericsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/Pair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/abolfazl/human_example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -163,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="221" />
     <option name="width" value="960" />
     <option name="height" value="1048" />
@@ -260,13 +256,20 @@
       <option name="presentableId" value="Default" />
       <updated>1563523749274</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Pair class generics">
+      <created>1563707926373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563707926373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="221" width="960" height="1048" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="31" width="1920" height="1049" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3982103" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19201726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -276,7 +279,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33066362" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33028573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995633" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,6 +298,10 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="PlantUML" order="8" weight="0.81096196" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Pair class generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Pair class generics" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jrt:///usr/lib/jvm/java-1.12.0-openjdk-amd64!/java.desktop/javax/swing/colorchooser/DiagramComponent.class">
