@@ -3,26 +3,46 @@
 title __HUMAN_EXAMPLE's Class Diagram__\n
 
   namespace  {
-    namespace com.abolfazl.human_example {
-      class com.abolfazl.human_example.Actor {
-          {static} ~ LIFESPAN : int
-          - actingSchool : String
-          - age : int
-          - films : List<String>
-          - height : float
-          - name : String
-          + Actor()
-          + getActingSchool()
-          + getAge()
-          + getFilms()
-          + getHeight()
-          + getName()
-          + getTimeToLive()
-          + setActingSchool()
-          + setAge()
-          + setFilms()
-          + setHeight()
-          + setName()
+    namespace om.abolfazl.human_example {
+      interface com.abolfazl.human_example.Actor {
+          {abstract} + addFilm()
+          {abstract} + getActingSchool()
+          {abstract} + getFilms()
+          {abstract} + setActingSchool()
+          {abstract} + setFilms()
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      interface com.abolfazl.human_example.Artist {
+          {abstract} + getSchool()
+          + isCreative()
+          {abstract} + setSchool()
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      enum Gender {
+        FEMALE
+        MALE
+        UNDEFINED
+        descr
+        repr
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      class com.abolfazl.human_example.GenericsDemo {
+          {static} + main()
       }
     }
   }
@@ -31,13 +51,14 @@ title __HUMAN_EXAMPLE's Class Diagram__\n
   namespace  {
     namespace om.abolfazl.human_example {
       abstract class com.abolfazl.human_example.Human {
-          {static} ~ LIFESPAN : int
+          {static} + LIFESPAN : int
           - age : int
           - height : float
           - name : String
           + Human()
           + Human()
           + getAge()
+          + getGender()
           + getHeight()
           + getName()
           {abstract} + getTimeToLive()
@@ -60,35 +81,70 @@ title __HUMAN_EXAMPLE's Class Diagram__\n
 
   namespace  {
     namespace om.abolfazl.human_example {
-      class com.abolfazl.human_example.Musician {
-          {static} ~ LIFESPAN : int
-          - age : int
+      interface com.abolfazl.human_example.Musician {
+          {abstract} + getGenre()
+          {abstract} + getMusicSchool()
+          {abstract} + getSongs()
+          {abstract} + getSongs()
+          {abstract} + setGenere()
+          {abstract} + setMusicSchool()
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      class com.abolfazl.human_example.Pair {
+          {static} + of()
+          + toString()
+          + x()
+          + x()
+          + y()
+          + y()
+          - Pair()
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      class com.abolfazl.human_example.Performer {
+          - actingSchool : String
+          - films : List<String>
           - genre : String
-          - height : float
           - musicSchool : String
-          - name : String
           - songs : List<String>
-          + Musician()
-          + getAge()
+          + Performer()
+          + addFilm()
+          + addSong()
+          + getActingSchool()
+          + getFilms()
           + getGenre()
-          + getHeight()
           + getMusicSchool()
-          + getName()
+          + getSchool()
+          + getSongs()
           + getSongs()
           + getTimeToLive()
-          + setAge()
-          + setGenre()
-          + setHeight()
+          + setActingSchool()
+          + setFilms()
+          + setGenere()
           + setMusicSchool()
-          + setName()
+          + setSchool()
           + setSongs()
       }
     }
   }
   
 
-  com.abolfazl.human_example.Actor -up-|> com.abolfazl.human_example.Human
-  com.abolfazl.human_example.Musician -up-|> com.abolfazl.human_example.Human
+  com.abolfazl.human_example.Human o-- com.abolfazl.human_example.Gender : gender
+  com.abolfazl.human_example.Pair o-- X : x
+  com.abolfazl.human_example.Pair o-- Y : y
+  com.abolfazl.human_example.Performer .up.|> com.abolfazl.human_example.Actor
+  com.abolfazl.human_example.Performer .up.|> com.abolfazl.human_example.Artist
+  com.abolfazl.human_example.Performer .up.|> com.abolfazl.human_example.Musician
+  com.abolfazl.human_example.Performer -up-|> com.abolfazl.human_example.Human
 
 
 right footer

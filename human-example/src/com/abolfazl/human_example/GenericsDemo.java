@@ -9,5 +9,13 @@ public class GenericsDemo {
 
         Pair <Performer, Performer> performerPair = Pair.of(john,jane);
         System.out.println(performerPair);
+
+        Pair <String, String> stringPair = Pair.of("John","Jane");
+        System.out.println(stringPair);
+
+        Pair <String, Performer> spPair = Pair.of("John", john);
+        System.out.println(spPair);
+
+        System.out.println("All Good");
     }
 }

@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2b85f9-3e65-4268-b19d-b3f6520afb9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayDemos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayDemos/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayDemos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayDemos/src/com/abolfazl_sadeghian/ArrayDemos/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharLister/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharLister/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharLister/src/com/abolfazl/charlister/CharLister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumericDeom/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumericDeom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumericDeom/src/com/abolfazlsadeghian/NumericDemo/NumeriCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/PerformerArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Addition_with_lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Addition_with_lambda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/abolfazl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/abolfazl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/human-example.plantuml" beforeDir="false" afterPath="$PROJECT_DIR$/human-example.plantuml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Artist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Gender$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Gender$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Gender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/GenericsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/GenericsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Human.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Musician.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Musician.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Performer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/com/abolfazl/human_example/Performer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abolfazl/human_example/GenericsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/GenericsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abolfazl/human_example/human_example.plantuml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/human_example.plantuml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,113 +40,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Performer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Artist.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Gender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
-              <folding>
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#686#687#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#804#805#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#908#909#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Pair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/GenericsDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/module-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Actor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,71 +58,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/test.puml" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/ik.puml" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/human_example.plantuml" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/Gender.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/Actor.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/Human.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/Musician.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/Artist.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/Performer.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/Pair.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/com/abolfazl/human_example/gen/GenericsDemo.java" />
-        <option value="$PROJECT_DIR$/src/module-info.java" />
-        <option value="$PROJECT_DIR$/src/com/abolfazl/human_example/module-info.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="221" />
-    <option name="width" value="960" />
-    <option name="height" value="1048" />
-  </component>
+  <component name="ProjectId" id="1OT2nzQPuhrmJMbIhZUpw8WUY44" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="human-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="human-example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="human-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="human-example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="human-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="human-example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="human_example" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/abolfazl/human_example" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -225,7 +89,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PerformerArrayDemo">
+    <configuration name="GenericsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abolfazl.human_example.GenericsDemo" />
+      <module name="human-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abolfazl.human_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abolfazl.human_example.Main" />
       <module name="human-example" />
@@ -239,9 +116,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PerformerArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abolfazl.human_example.PerformerArrayDemo" />
+      <module name="human-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abolfazl.human_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerformerArrayDemo" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GenericsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -266,204 +158,35 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="31" width="1920" height="1049" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19201726" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33028573" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995633" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32951945" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="PlantUML" order="8" weight="0.81096196" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Pair class generics" />
     <option name="LAST_COMMIT_MESSAGE" value="Added Pair class generics" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="jrt:///usr/lib/jvm/java-1.12.0-openjdk-amd64!/java.desktop/javax/swing/colorchooser/DiagramComponent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/test.puml" />
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/ik.puml" />
-    <entry file="file://$PROJECT_DIR$/human-example.plantuml" />
-    <entry file="file://$PROJECT_DIR$/src/src.plantuml" />
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/human_example.plantuml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/human_example.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Musician.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Performer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Artist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Gender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
-          <folding>
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Actor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/com/abolfazl/human_example/gen/module-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/module-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/module-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abolfazl/human_example/GenericsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/abolfazl/human_example/GenericsDemo.java</url>
+          <line>5</line>
+          <properties class="com.abolfazl.human_example.GenericsDemo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

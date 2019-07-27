@@ -4,7 +4,31 @@ title __HUMAN-EXAMPLE's Class Diagram__\n
 
   namespace  {
     namespace om.abolfazl.human_example {
-      class com.abolfazl.human_example.Actor {
+      interface com.abolfazl.human_example.Actor {
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      interface com.abolfazl.human_example.Artist {
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      enum Gender {
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      class com.abolfazl.human_example.GenericsDemo {
       }
     }
   }
@@ -28,14 +52,35 @@ title __HUMAN-EXAMPLE's Class Diagram__\n
 
   namespace  {
     namespace om.abolfazl.human_example {
-      class com.abolfazl.human_example.Musician {
+      interface com.abolfazl.human_example.Musician {
       }
     }
   }
   
 
-  com.abolfazl.human_example.Actor -up-|> com.abolfazl.human_example.Human
-  com.abolfazl.human_example.Musician -up-|> com.abolfazl.human_example.Human
+  namespace  {
+    namespace om.abolfazl.human_example {
+      class com.abolfazl.human_example.Pair {
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.abolfazl.human_example {
+      class com.abolfazl.human_example.Performer {
+      }
+    }
+  }
+  
+
+  com.abolfazl.human_example.Human o-- com.abolfazl.human_example.Gender : gender
+  com.abolfazl.human_example.Pair o-- X : x
+  com.abolfazl.human_example.Pair o-- Y : y
+  com.abolfazl.human_example.Performer .up.|> com.abolfazl.human_example.Actor
+  com.abolfazl.human_example.Performer .up.|> com.abolfazl.human_example.Artist
+  com.abolfazl.human_example.Performer .up.|> com.abolfazl.human_example.Musician
+  com.abolfazl.human_example.Performer -up-|> com.abolfazl.human_example.Human
 
 
 right footer
