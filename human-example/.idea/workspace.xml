@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2b85f9-3e65-4268-b19d-b3f6520afb9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CalendarDateDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalendarDateDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalendarDateDemo/src/com/abolfazl_sadeghian/CalendarDateDemo/CalendarDateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CollectionsDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CollectionsDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CollectionsDemo/src/com/abolfazl_sadeghian/CollectionsDemo/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WrapperDemo/.idea/WrapperDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WrapperDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WrapperDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WrapperDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abolfazl/human_example/CollectionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WrapperDemo/src/com/abolfazl_sadeghian/WrapperDemo/WrapperDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WrapperDemo/src/com/abolfazl_sadeghian/WrapperDemo/com/abolfazl_sadeghian/WrapperDemo/WrapperDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/human-example/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/human-example/module-info.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/abolfazl/human_example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -61,7 +75,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PerformerArrayDemo">
+  <component name="RunManager" selected="Application.CollectionsDemo">
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abolfazl.human_example.CollectionsDemo" />
+      <module name="human-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abolfazl.human_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenericsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abolfazl.human_example.GenericsDemo" />
       <module name="human-example" />
@@ -103,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsDemo" />
         <item itemvalue="Application.PerformerArrayDemo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.GenericsDemo" />
